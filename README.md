@@ -32,18 +32,14 @@ EDA : Studied basic Net sales and profit performance for 4 years and then dived 
 Data Visualization: used bar plots, line plots, stack area plots, scatter plots, and  bubble plots. 
 
 Current important findings: 
--Over the 4-years, there is a stead rise in profit and Net Sales 
-- Net Sales shows sudden rise post 2012 but the rise does not seem to correspond with profits
-- Quarterly variations in Net Sales, Discount and Number of orders place is similar. Q4 (Quarter 4) – shows highest rise in all 3 categories which is mainly due to festival and/or holiday season. Such seasonality demands  for more staff for handling orders and shipment process.
-- Technology category is the most successful segment, making it strategically important 
-- Office supplies seems to do fairly well in terms of sales but profit is limited; bulk purchases should be targeted more allowing  shipment cost to be reduced
-- Furniture showed lowest profit and business strategy needs to re-evaluated 
-- In 4 years, there is rise in orders and customers but fall in average order value, indicating supply chain efficiency is critical  for success
-- Fall in rate of new customers indicate: (a) re-evaluation of market trends  (b) update existing product lists (c) revise marketing strategies
-- Majority customers contribute <5000$ Net sales and < 1500 $ profit 
-- In terms of profit: Furniture : under - performing: Tables*  & bookcases; Major contributors : Chairs , furnishings
-                      Office supplies: under - performing : supplies; Major contributors : Copiers 
-                      Technology : under - performing : machines*; Major contributors :  Phones, Accessories 
-                      Note: * Sales seems to be moderate and therefore cost needs to be re-evaluated                            
+
+General Business Strategies
+(a) Evaluate Cost Structures:  Reassess the cost structure for underperforming  products, especially tables, bookcases, and machines.
+(b) Seasonal Planning: Increase Seasonal Staffing - Hire additional staff during Q4 to handle the increase in orders and shipments efficiently.
+(c) Product Category Improvements:  Furniture Segment-  Re-evaluate the business strategy for the furniture category.
+(d) Customer Focus:  Improve Supply Chain Efficiency - Implement strategies to enhance supply chain efficiency to maintain or increase average order value.
+(e) Attract New Customers: Re-evaluate market trends to stay relevant and attract new customers.
+(f) Marketing and Sales: Enhance Product Offerings by continuous update and diversification of the product offerings to cater to a broader customer base and adapt to market changes.
+                   
 
 
